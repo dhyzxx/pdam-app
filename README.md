@@ -62,8 +62,8 @@ Aplikasi web sederhana berbasis Laravel untuk pencatatan tagihan PDAM pribadi. D
 
 1.  **Clone Repositori (atau Unduh ZIP dan Ekstrak):**
     ```bash
-    git clone [https://github.com/EskelandLab/ANDA](https://github.com/EskelandLab/ANDA) nama_folder_proyek
-    cd nama_folder_proyek
+    git clone [https://github.com/dhyzxx/pdam-app](https://github.com/dhyzxx/pdam-app) pdam-app
+    cd pdam-app
     ```
 
 2.  **Instal Dependensi Composer:**
