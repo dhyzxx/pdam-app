@@ -130,6 +130,6 @@ Aplikasi web sederhana berbasis Laravel untuk pencatatan tagihan PDAM pribadi. D
 * **Exports:** `app/Exports/` (PelangganExport, TagihanBulanExport)
 * **Artisan Commands:** `app/Console/Commands/` (ImportPdamData)
 
-## Kontribusi (Jika Dibuka untuk Umum)
+## Kontribusi (Dibuka untuk Umum)
 
 Saat ini proyek ini untuk penggunaan pribadi. Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request.
